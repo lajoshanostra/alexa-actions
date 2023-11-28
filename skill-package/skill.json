@@ -7,22 +7,25 @@
     "publishingInformation": {
       "locales": {
         "de-DE": {
-          "name": "Actionable notifications"
+          "name": "HA Actions"
         },
         "en-US": {
-          "name": "Actionable notifications"
+          "name": "HA Actions"
         },
+        "en-GB": {
+          "name": "HA Actions"
+        },        
         "fr-FR": {
-          "name": "Actionable notifications"
+          "name": "HA Actions"
         },
         "it-IT": {
-          "name": "Actionable notifications"
+          "name": "HA Actions"
         },
         "pt-BR": {
-          "name": "Actionable notifications"
+          "name": "HA Actions"
         },
         "es-ES": {
-          "name": "Actionable notifications"
+          "name": "HA Actions"
         }
       }
     }
